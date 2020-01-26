@@ -111,6 +111,14 @@
 		"oAP": "/includes/contact.php",
 		"oF": 0
 		},
+	"/includes/faqs.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/includes/faqs.php",
+		"oF": 0
+		},
 	"/includes/footer-nav.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -1050,7 +1058,7 @@
 	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
-	"esLintEnvironmentsMask": 1,
+	"esLintEnvironmentsMask": 8193,
 	"esLintRules": {
 		"accessor-pairs": {
 			"active": 0,
